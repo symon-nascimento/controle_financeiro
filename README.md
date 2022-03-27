@@ -4,7 +4,7 @@
 
 
 ### Front-end:
-HTML, CSS e javascript.
+HTML, CSS e Javascript.
 
 ### Back-end:
 NestJS, TypeOrm e Postgres.
