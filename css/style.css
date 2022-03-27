@@ -1,0 +1,19 @@
+.container {
+    margin-top: 25px;
+    margin-bottom: 50px;
+}
+
+.container-bottom {
+    margin-bottom: 50px;
+}
+
+.align-button {
+    margin-top: 25px;
+}
+
+.header-background {
+    background-color: rgb(39, 104, 245);
+    margin-left: -12px;
+    margin-right: -12px;
+    margin-bottom: 20px;
+}
